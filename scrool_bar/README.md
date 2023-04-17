@@ -1,11 +1,11 @@
 # scrool_bar
-![Screenshot_1681773397](https://user-images.githubusercontent.com/68226220/232630631-4034043a-12c6-4afc-89a7-b7abf86876a1.png)
-
-
-![Screenshot_1681773442](https://user-images.githubusercontent.com/68226220/232630648-114f020d-e4da-48d0-a81a-500e451c6e40.png)
 
 A new Flutter project.
 
+
+![Screenshot_1681773397](https://user-images.githubusercontent.com/68226220/232630631-4034043a-12c6-4afc-89a7-b7abf86876a1.png)
+
+![Screenshot_1681773442](https://user-images.githubusercontent.com/68226220/232630648-114f020d-e4da-48d0-a81a-500e451c6e40.png)
 
 
 ## Getting Started
