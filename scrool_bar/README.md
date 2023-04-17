@@ -1,6 +1,8 @@
 # scrool_bar
 
 A new Flutter project.
+![Screenshot_16817733![Screenshot_1681773442](https://user-images.githubusercontent.com/68226220/232630240-feef9283-e878-4b59-8635-c0daea25cbcf.png)
+97](https://user-images.githubusercontent.com/68226220/232630212-19b8b5bd-b3ca-46c6-965a-d94d265da67e.png)
 
 ## Getting Started
 
