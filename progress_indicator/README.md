@@ -1,6 +1,8 @@
 # progress_indicator
 
 A new Flutter project.
+![Screenshot_1681776817](https://user-images.githubusercontent.com/68226220/232637314-21505a09-45f4-4fe1-a60b-918cd1588f8f.png)
+![Screenshot_1681776823](https://user-images.githubusercontent.com/68226220/232637316-5de36566-3a8c-43b2-aa31-9433cd0df658.png)
 
 ## Getting Started
 
